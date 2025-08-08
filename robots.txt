@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://DalyDY.github.io/chrome-demo/sitemap.xml
