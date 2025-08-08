@@ -1,0 +1,34 @@
+INSTRUCTIONS — Safe Indexing Demo (Google & ChatGPT)
+========================================================
+
+1) Replace placeholders:
+   - In index.html, robots.txt, and sitemap.xml, change:
+       YOUR-USERNAME  -> your GitHub username
+       YOUR-REPO      -> your repo name (for project pages) or yourusername.github.io (for user site)
+   - If you use Google Search Console, paste the verification <meta> into <head> of index.html.
+
+2) Publish to GitHub Pages:
+   - Push these files to your repo's default branch.
+   - In repo Settings → Pages, enable GitHub Pages for that branch (and / root folder).
+
+3) Create a backlink:
+   - Edit the repo README (on GitHub) and add a visible link to your Pages URL.
+   - Optional: add a link in a public GitHub issue/discussion for extra discovery.
+
+4) Force indexing:
+   - Open Google Search Console (use URL-prefix property with your exact Pages URL).
+   - Verify using the HTML <meta> method.
+   - Use URL Inspection → paste your page URL → Request indexing.
+
+5) Capture screenshots:
+   - Google: search for "chrome update qutcode demo 2025" and screenshot the SERP showing your page.
+   - ChatGPT: ask "Find GitHub Pages demo about chrome update qutcode demo 2025" and screenshot the reply with your link.
+
+6) Teardown:
+   - Disable GitHub Pages or delete the branch/repo.
+   - Search Console → Removals → Temporary remove URL.
+
+Notes:
+- Do NOT upload executables or real installers.
+- Avoid trademarks/logos and "official" wording.
+- This bundle is for educational purposes only.
